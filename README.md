@@ -4,7 +4,7 @@ I'm a frontend developer from Brazil, who started learning web development in Se
 
 - 🔭 I'm currently working on my Portfolio to practice my tech skills and achieve my first opportunity as a Frontend Developer
 
-- 🌱 I'm currently learning React at [Origamid](https://www.origamid.com/)
+- 🌱 I'm currently doing the [Impulso JavaScript Evolution](https://impulso.work/) Bootcamp at [DIO](https://www.dio.me/en)
 
 - 🎓 I have a Bachelor's degree in Business Administration (BBA)
 
@@ -20,6 +20,7 @@ I'm a frontend developer from Brazil, who started learning web development in Se
 ![CSS3](https://img.shields.io/badge/-CSS3-%2320232a?style=flat&logo=CSS3&logoColor=1a8cd8)
 ![SASS](https://img.shields.io/badge/-Sass-%2320232a?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%2320232a?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%2320232a?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-%2320232a?style=flat&logo=react)
 
 ![VSCode](https://img.shields.io/badge/-VS%20Code-%2320232a?style=flat&logo=visualstudiocode&logoColor=005ba4)
