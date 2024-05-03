@@ -1,17 +1,7 @@
 ### Hi there, I'm Diego 👋🏻
 
-I'm a business administration professional with a background in sales, people management, logistics, and customer service.
+I'm a Business Administration professional, with extensive experience in various areas, including administration, business analysis, team management, sales, logistics, hospitality, and customer service. 
 
-💻 I'm undergoing a career transition to become a Data Analyst.
+With an analytical and proactive approach, I am able to identify and solve problems efficiently. My communication and collaboration skills allow me to easily adapt to different work environments and develop positive interpersonal relationships.
 
-🌱 I'm currently studying SQL, Excel, Python, Tableau, and Power BI.
-
-🎓 I hold a Bachelor's degree in Business Administration (BBA).
-
-🌎 I speak Brazilian Portuguese (native), English, Spanish, and have a basic understanding of German.
-
-👨🏻‍💻 Furthermore, I have practical knowledge in web development, with HTML, CSS, JavaScript, React, Tailwind, Material UI, Sass, Bootstrap, Node.js, and MongoDB.
-
-#### Connect with me
-
-If you are interested in discussing opportunities related to data analysis, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/diegovianaf).
+Additionally, I am fluent in English and have skills in Digital Marketing and various technologies, including Salesforce, HubSpot, Mailchimp, Microsoft Office Suite, SQL, Tableau and programming languages.
